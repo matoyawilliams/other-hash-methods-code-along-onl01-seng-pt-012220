@@ -7,3 +7,4 @@ dairy: ["milk", "yogurt", "cheese"],
 
 groceries.min 
 
+alphabetical_order.min

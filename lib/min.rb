@@ -1,1 +1,3 @@
-
+groceries ={
+  dairy: ["milk"]
+}

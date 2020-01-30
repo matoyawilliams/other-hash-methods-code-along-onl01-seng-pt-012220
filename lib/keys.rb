@@ -5,4 +5,4 @@ dairy: ["milk", "yogurt", "cheese"],
   grains: ["rice", "pasta"]
 }
 
-groceries.keys 
+groceries.keys

@@ -6,3 +6,4 @@ dairy: ["milk", "yogurt", "cheese"],
 }
 
 groceries.min 
+
